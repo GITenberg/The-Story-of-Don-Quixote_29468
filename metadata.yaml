@@ -37,6 +37,8 @@ creator:
     gutenberg_agent_id: '31486'
     url: http://www.gutenberg.org/2009/agents/31486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29468#The-Story-of-Don-Quixote
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2009-07-20'
 gutenberg_type: Text
